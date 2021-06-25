@@ -9,120 +9,151 @@ slideOptions:
   center: false
 ---
 
-### Myndir úr Bólugili 2021
+### Myndir af Áshildarhotsvatni og Tjarnartjörn 2021
 
 <!-- Put the link to this slide here so people can follow -->
 Nótur úr feltbók: https://hackmd.io/@Valtyr/ByhcnnU9O
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/6OsZvwm.jpg" data-background-size="contain" -->
 
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0005.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-
-Kíkt upp í gil frá brúnni á gamla þjóðveginum
-
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/UMmm7KN.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0009.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-
-Gönguslóði/kindastígur
-
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/nibvBw4.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0011.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-
-Skógrækt nærri gili
-
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/OY3PNBp.jpg" data-background-size="contain" -->
-
-
----
-
-<!-- .slide: data-background="https://i.imgur.com/Y1J2DAM.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0017.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-
-Yfirlitsmynd (Einar á besta stað)
-
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/62VKL2r.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0020.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-
-Horft niður fjallið
-
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/pfSEsCX.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0026.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-Litaafbrigði af melablómi
+minntexti
 :::
-
-![](https://i.imgur.com/Rb2yWCx.jpg)
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/Rxn4HQs.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0029.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-Bergsteinbrjótur ?
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/0vthAuo.jpg" data-background-size="contain" -->
-
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0032.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-Brot úr rauðu millilagi 
+minntexti
 :::
-
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3024.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3027.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3030.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3032.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3037.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3042.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+minntexti
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
 
