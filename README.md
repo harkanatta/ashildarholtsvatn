@@ -1,26 +1,25 @@
-Bólugil
+Áshildarholtsvatn og Tjarnartjörn
 ===
 
 
 [![hackmd-github-sync-badge](https://hackmd.io/QFJXBOKvRm-LrDeoZuS11Q/badge)](https://hackmd.io/QFJXBOKvRm-LrDeoZuS11Q)
 
-###### tags: `NNV` `Vöktun náttúruverndarsvæða` `2021` `Skagafjörður` `feltbók` `forkönnun`
+###### tags: `NNV` `Vöktun náttúruverndarsvæða` `2021` `Skagafjörður` `feltbók` `fuglaskoðunarhús`
 
 :::info
-- **Dagsetningar:** 3. og 18. júní, 2021, 12:00-15:30 og 14:00-15:00
+- **Dagsetning:** 24. júní, 2021, 13:00-17:00
 - **Umsjón:**
 [name=Valtýr]
 [name=Einar]
 [name=Skotta] :pig2:
-- **Veður:** - fyrri ferð Milt og gott og skýjað :cloud:, fór að rigna undir lokin.
-    - seinni ferð: Milt og gott og léttskýjað :sunny:, 4m/sek, um 10°C.
-- :memo: Ath. Dróninn gat ekki farið í gegnum „calibration“ og var því ekki notaður í fyrri ferðinni og því komið aftur þann 18. júní.
-- gögn/heimasvæði: https://github.com/harkanatta/bolugil
+- **Veður:** - Ansi hvöss vestanátt en datt svo alveg niður. Léttskýjað, sól, 14°C.
+
+- gögn/heimasvæði: https://github.com/harkanatta/ashildarholtsvatn
 
 :::
 
 # :camera: [Myndir :point_left:](https://hackmd.io/@Valtyr/BkN9mALc_#/) 
-# :world_map: [Kort :point_left:](https://harkanatta.github.io/bolugil/) 
+# :world_map: [Kort :point_left:](https://harkanatta.github.io/ashildarholtsvatn/) 
 ## :notebook:  Feltbók
 Fossaröðin í Bólugili er á [lista Umhverfisstofnunar yfir náttúruvætti](https://ust.is/nattura/natturuverndarsvaedi/natturuminjaskra/nordvesturland/). Á vef um [náttúru Skagafjarðar](http://natturaskagafjardar.is/?s=b%C3%B3lugil) segir: 
 > Falleg fossaröð er í Bóluá við bæinn Bólu í Blönduhlíð. Gljúfrið er tilkomumikið og þar má vel greina jarðlagastafla og rauð millilög eru áberandi.
