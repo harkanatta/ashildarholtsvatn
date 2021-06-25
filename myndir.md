@@ -12,7 +12,7 @@ slideOptions:
 ### Myndir af Áshildarhotsvatni og Tjarnartjörn 2021
 
 <!-- Put the link to this slide here so people can follow -->
-Nótur úr feltbók: https://hackmd.io/@Valtyr/ByhcnnU9O
+Nótur úr feltbók: https://hackmd.io/@Valtyr/H13_MrQhu
 
 ---
 
