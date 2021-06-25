@@ -1,5 +1,5 @@
 ---
-title: Myndir úr Bólugili 2021
+title: Myndir af Áshildarhotsvatni og Tjarnartjörn 2021
 tags: NNV, Vöktun, náttúruverndarsvæða, 2021, Skagafjörður, feltbók
 description: Myndir frá vöktun náttúruverndarsvæða 2021 - Bólugil.
 slideOptions:
@@ -16,12 +16,22 @@ Nótur úr feltbók: https://hackmd.io/@Valtyr/ByhcnnU9O
 
 ---
 
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3042.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+Góður dagur
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
 
 <!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0005.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-minntexti
+Svæðið á milli Áshildarholtsvatns og Tjarnartjarnar
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -31,7 +41,7 @@ minntexti
 <span>
 
 :::success
-minntexti
+Áshildarholtsvatn, bílastæði við gamalt stöðvarhús og tangar þar sem sniðugt væri að flytja fuglaskoðunarhúsið við eystri enda vatnsins. Þarna er alltaf eitthvað að sjá og gott aðgengi
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -41,17 +51,7 @@ minntexti
 <span>
 
 :::success
-minntexti
-:::
-<!-- .element: class="fragment" data-fragment-index="1" --></span>
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0017.JPEG"data-background-size="contain" -->
-<span>
-
-:::success
-minntexti
+Áshildarholtsvatn og hlíðarhverfið á Króknum
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -61,7 +61,7 @@ minntexti
 <span>
 
 :::success
-minntexti
+Tangarnir við bílastæðið, mikill botngróður í grunnu vatninu
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -71,7 +71,7 @@ minntexti
 <span>
 
 :::success
-minntexti
+Sjávarborg í Borgarsveit. Fuglahúsið er í 100 m fjarlægð frá vatninu
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -81,47 +81,7 @@ minntexti
 <span>
 
 :::success
-minntexti
-:::
-<!-- .element: class="fragment" data-fragment-index="1" --></span>
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0032.JPEG"data-background-size="contain" -->
-<span>
-
-:::success
-minntexti
-:::
-<!-- .element: class="fragment" data-fragment-index="1" --></span>
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3024.JPEG"data-background-size="contain" -->
-<span>
-
-:::success
-minntexti
-:::
-<!-- .element: class="fragment" data-fragment-index="1" --></span>
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3027.JPEG"data-background-size="contain" -->
-<span>
-
-:::success
-minntexti
-:::
-<!-- .element: class="fragment" data-fragment-index="1" --></span>
-
----
-
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3030.JPEG"data-background-size="contain" -->
-<span>
-
-:::success
-minntexti
+Hrafnslaupur í klettum
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
@@ -131,9 +91,49 @@ minntexti
 <span>
 
 :::success
-minntexti
+Hrafnslaupur
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0032.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+Hugsanlegt fuglasnið (rákir: gamlar strandlínur)
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3024.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+Maður myndar á símann sinn
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3027.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+Fálkahræ
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
+---
+
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3030.JPEG"data-background-size="contain" -->
+<span>
+
+:::success
+Fálkahræ
+:::
+<!-- .element: class="fragment" data-fragment-index="1" --></span>
+
 
 ---
 
@@ -141,19 +141,18 @@ minntexti
 <span>
 
 :::success
-minntexti
+minkur
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3042.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0017.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
-minntexti
+minkur
 :::
 <!-- .element: class="fragment" data-fragment-index="1" --></span>
 
 ---
-
