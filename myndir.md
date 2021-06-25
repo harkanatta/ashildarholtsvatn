@@ -17,7 +17,7 @@ Nótur úr feltbók: https://hackmd.io/@Valtyr/ByhcnnU9O
 ---
 
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0005.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0005.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -27,7 +27,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0009.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0009.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -37,7 +37,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0011.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0011.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -47,7 +47,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0017.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0017.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -57,7 +57,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0020.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0020.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -67,7 +67,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0026.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0026.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -77,7 +77,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0029.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0029.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -87,7 +87,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/DJI_0032.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/DJI_0032.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -97,7 +97,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3024.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3024.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -107,7 +107,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3027.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3027.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -117,7 +117,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3030.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3030.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -127,7 +127,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3032.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3032.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -137,7 +137,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3037.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3037.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
@@ -147,7 +147,7 @@ minntexti
 
 ---
 
-<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/reykjafoss/main/minnimyndir/IMG_3042.JPEG"data-background-size="contain" -->
+<!-- .slide: data-background="https://raw.githubusercontent.com/harkanatta/ashildarholtsvatn/main/minnimyndir/IMG_3042.JPEG"data-background-size="contain" -->
 <span>
 
 :::success
