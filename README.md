@@ -13,101 +13,88 @@
 [name=Einar]
 [name=Skotta] :pig2:
 - **Veður:** - Ansi hvöss vestanátt en datt svo alveg niður. Léttskýjað, sól, 14°C.
-
+- :car: 33379 km
 - gögn/heimasvæði: https://github.com/harkanatta/ashildarholtsvatn
 
 :::
 
-# :camera: [Myndir :point_left:](https://hackmd.io/@Valtyr/BkN9mALc_#/) 
+# :camera: [Myndir :point_left:](https://hackmd.io/@Valtyr/rkwwUEX3d#/) 
 # :world_map: [Kort :point_left:](https://harkanatta.github.io/ashildarholtsvatn/) 
+
+---
 ## :notebook:  Feltbók
-Fossaröðin í Bólugili er á [lista Umhverfisstofnunar yfir náttúruvætti](https://ust.is/nattura/natturuverndarsvaedi/natturuminjaskra/nordvesturland/). Á vef um [náttúru Skagafjarðar](http://natturaskagafjardar.is/?s=b%C3%B3lugil) segir: 
-> Falleg fossaröð er í Bóluá við bæinn Bólu í Blönduhlíð. Gljúfrið er tilkomumikið og þar má vel greina jarðlagastafla og rauð millilög eru áberandi.
 
-og
+:books: [Aðaskipulag Skagafjarðar 2009-2021:](https://www.skagafjordur.is/static/files/Adalskipulag/adalskipulag-2009-2021-desember-2009-forsendur.pdf)
 
-> Á myndinni af Bólugili sjáum við þverskurð af myndarlegum stafla af jarðlögum. Lögin í staflanum eru misþykk en algengast er að þau séu 5-15 m. Inni á milli jarðlaganna má víða sjá annars konar lög sem eru yfirleitt rauð- eða gulleit. Það urðu nefnilega stundum hlé á milli gosa og þá náðist að myndast gróður og jarðvegur. Svo lagðist næsta hraunlag yfir og þá varð til fagurlitað millilag úr jarðveginum og gróðrinum.
+*Smá um mikilvægi:*
+>Borgarsandur, Borgarmýrar, Borgarskógar, Miklavatn og Áshildarholtsvatn. Sandfjara, flæðimýrar, hrísmýrar, flóar og gróðurmikil vötn og tjarnir. Þetta svæði er tvímælalaust eitt af mikilvægari fuglasvæðum landsins. Hluti 
+þessa svæðis, þ.e. Skógarnir ásamt Miklavatni, voru friðlýstir árið 1977. 
 
-Við gilið er mikil skógrækt upp með hlíðum sem mun, með tímanum, hamla sýnileika fossins frá þjóðveginum.
+*Eilítið um fugla:*
+>Við Áshildarholtsvatn er ágætis aðstaða til fuglaskoðunar, en fara þarf um með varkárni vegna þess að þar verpa ennþá tvö til þrjú pör af flórgoða. Þó geta fuglaskoðarar óvíða séð jafn margar tegundir fugla á eins aðgengilegan og þægilegan hátt og á vegspottanum frá þjóðvegi á Borgarsandi að flugvelli. Beggja vegna við þennan vegspotta eru tjarnir og votlendi með ótrúlega fjölbreytilegu fuglalífi á vorin. Fuglar sem þarna sjást eru flestallir þeir fuglar sem nefndir voru hér á undan á ósasvæði Vestari-Héraðsvatna 
+
+*Smá hitaveitusaga:* 
+>Framkvæmdir hjá Hitaveitu Sauðárkróks hófust fyrst árið 1948 þegar borað var eftir heitu vatni við Áshildarholtsvatn. Boraðar voru 4 holur í upphafi og þær nefndar SK-0 til SK-3. Þessar holur voru frá 17,5 metrum að dýpt niður í 120 metra. Byrjað var að leiða vatn að Sjávarborg og síðan til Sauðárkróks og var heitu vatni hleypt á fyrsta húsið að Bárustíg 1, 1. febrúar 1953. 
+
 
 :running: Leiðangur
 ---
-Byrjuðum á því að kíkja á Silfrastaði til að kasta kveðju á [Skógfræðingana Hrefnu Jóhannesdóttur og Johan Holst](https://www.skogur.is/is/um-skograektina/frettir-og-vidburdir/frettir-og-pistlar/skogarbaendur-a-silfrastodum) og keyrðum svo upp að brúnni á gamla þjóðveginum sem þverar gilið. Þaðan var gengið upp vegaslóða (nýruddan af jarðýtu) upp með gilinu. Talsvert bratt var síðasta spölin þegar snúið var við en þá var komið framhjá besta útsýnisstaðnum sem er annars auðveld ganga.
 
-:herb: Plöntulisti
----
-Meðfram ánni að sunnanverðu má segja að sé upprunaland, grónar brekkur, harðbali og grýttir melar. Mikil skógrækt með ca 80% lerki en einnig er að finna birki og stafafuru. Næst gilinu er mest um nýja skógrækt með smáplöntum. Norðan ár í landi Bólu er engin skógrækt en beitilönd með sama umhverfi og áður var nefnt: upprunaland, grónar brekkur, harðbali og grýttir melar.  Gróður var ekki mikið kominn í gang svo snemma sumars en þessar jurtir voru greindar:
+Þegar við mættum við bílastæðið hjá gamla stöðvarhúsinu við Áshildarholtsvatn biðu okkar yfir 350 rauðhöfðaandasteggir og fleiri fuglar. Við keyrðum hægt og stoppuðum til að telja áður en við komum á bílastæðið. Þegar við keyrðum svo á stæðið fældust fuglarnir og helmingurinn færði sig til á vatninu.
 
-- axhæra
-- belgjastör
-- bergsteinbrjótur
-- bláberjalyng
-- brennisóley
-- fjalldepla
-- gullmura
-- gulmaðra
-- helluhnoðri
-- holtasóley
-- hvítsmári
-- ilmreyr
-- kornsúra
-- krækilyng
-- krossnaðra
-- lambagras
-- ljónslappi
-- loðvíðir og fjallavíðir/grávíðir.
-- lyfjagras
-- melablóm
-- móasef
-- mosasteinbrjótur
-- músareyra
-- ólafssúra
-- skriðnablóm.
-- smjörgras
-- snarrótarpuntur (mikil sina innanum í skógrækt)
-- stinnastör
-- þúfusteinbrjótur
-- tugnljurt
-- túnsúra
-- vallhumall
-- vetrarblóm
-- vorperla
+Skoðuðum fuglaskoðunarhúsið austan megin við vatnið og könnuðum klettinn sem Sjávarborg er eflaust kennd við.
 
-:::success
-Melablóm variant með dauf-blálituðum blómum óx innan um venjulegu hvítu gerðina, bláleitu eintökin voru 6 talsins, sum all stór með mörgum blómum, sjá myndir.  Vaxtarstaðurinn í hálfgrónum mel nærri gilbarmi á ca 5 m2.
-:::
+Keyrðum að nýrra stöðvarhúsinu og gengum eftir stokkunum að Tjarnartjörn og út á tanga þar sem okkur grunaði að við finndum himbrimahreiður. Við vorum stígvélalausir og léttir á fæti.
 
-:::success
-Bergsteinbrjótur 3 eintök ekki komin í blóm óx í mel ofarlega með gili skammt frá brún ca 20 m. í skjóli af stórum steinum. Hefur ekki fundist í Skagafirði áður (http://www.floraislands.is/saxifpan.html)
-:::
 
 :bird: Dýralíf
 ---
-#### Algengir fuglar í skógi:
-- skógarþröstur
-- þúfutittlingur 
-- hrossagaukur 
-- auðnutittlingur
+
+Minkagreni við Tjarnartjörn, hrafnslaupur með 4 ungum í klettunum við Sjávarborg. Þar lá líka dauður fálki
+
+#### Á bílastæði við gamla stöðvarhúsið við Áshildarholtsvatn:
+
+
+|tegund       | fjöldi|atferli             | pör|
+|:------------|------:|:-------------------|---:|
+|rauðhöfðaönd |    368|nánast allt steggir |  |
+|gargönd      |      2|steggir             |  |
+|álft         |      2|par með unga        |   1|
+|skúfönd      |      2|steggir             |  |
+|óðinshani    |      2|par                 |   1|
+|flórgoði     |      5|1 æstur við hreiður |   2|
+|Himbrimi     |      2|teretorískir        |   1|
+
+#### Við Tjarnartjörn:
+
+| tegund       | fjöldi | atferli         | pör |
+|:------------ | ------:|:--------------- | ---:|
+| æðarkolla    |      2 | kollur með unga |     |
+| álft         |      2 | með unga        |   1 |
+| grágæs       |      1 |                 |     |
+| hrossagaukur |      3 | s               |     |
+| hvítmáfur    |      1 |                 |     |
+| óðinshani    |      2 | steggir æ       |     |
+| rauðhöfðaönd |      2 |                 |   1 |
+| rjúpa        |      1 | mað unga        |     |
+| skúfönd      |      2 |                 |   1 |
+| spói         |      3 |                 |     |
+| stelkur      |      2 | æ               |   1 |
+| tjaldur      |      2 | æ               |   1 |
+| toppönd      |      2 |                 |   1 |
+| þúfutittlingur |	5	| æ, 2 með æti	| |
+
+
+
  
-#### Aðrir fuglar og fleiri dýr
-- Rjúpa, tveir kvenfuglar í jaðri skógræktar. 
-- Í urð með gili ofan fossa var hrafnapar. Þeir voru æstir svo þar mun vera hrafnshreiður. Fýll, 5 fuglar, einn lá á hreiðri. Sílamáfur 5 fuglar, flugu hjá.
-- Refaskítur sást á tveimur stöðum. :poop: 
-- Nýlega reittir fuglar skógarþröstur og hrossagaukur fundust neðarlega við gil sennilega verið bráð smyrils en neðst í gili eru ræktaðar syllur af þeirri gerð sem smyrlar nota gjarnan til varps svo sennilega verpa þar smyrlar tíðum.
-- Af skordýrum sást ein humla greind sem móhumla. :bee: 
-
-:earth_africa: Jarðfræði
----
-Jarðlög, berggangar og fleira sem þarf að kanna nánar. Mögulegt er að fljúga drónanum nálægt berglögunum og taka myndir. Einnig er hægt að komast að litlum hluta af berglögunum hinu megin frá úr landi Bólu.
-
 :pencil2: Athugasemdir
 ---
-- Skógrækt:
-    -  Trén of nærri gilinu.
-        - Athuga hvort bændur séu til umræðu um að fjarlegja nálægustu trén.:pray:
-    - Ljótur slóði um skógræktina 
-        - mun skána þegar hann grær :thumbsup:
-        - sést ekki frá veginum :thumbsup:
+- Eggjataka
+    - kríueggjum og máfaeggjum er safnað
+- minkur og refur
+- Skipulagsmál
+    - Verður flugvöllurinn stækkaður
+    - stækkun á hesthúsabyggðinni
 
-
+Verður að fylgjast með skipulagi í nánd við Skóga og Miklavatn
 
